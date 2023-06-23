@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="7" name="util.StudentsTest" time="0.892" errors="0" skipped="0">
-  <properties>
-    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
-    <property name="java.vm.version" value="17.0.1+12-jvmci-21.3-b05"/>
-    <property name="sun.boot.library.path" value="/nix/store/jd8g6gkgxzz40842f1g51fca5bg9ilmj-graalvm17-ce/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/home/runner/wbsJavaTask/root"/>
-    <property name="java.vm.vendor" value="GraalVM Community"/>
-    <property name="java.vendor.url" value="https://www.graalvm.org/"/>
-    <property name="guice.disable.misplaced.annotation.check" value="true"/>
-    <property name="path.separator" value=":"/>
-    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
-    <property name="user.country" value="US"/>
-    <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/runner/wbsJavaTask"/>
-    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+
     <property name="java.runtime.version" value="17.0.1+12-jvmci-21.3-b05"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.io.tmpdir" value="/tmp"/>
