@@ -1,36 +1,4 @@
-
-    <property name="java.runtime.version" value="17.0.1+12-jvmci-21.3-b05"/>
-    <property name="os.arch" value="amd64"/>
-    <property name="java.io.tmpdir" value="/tmp"/>
-    <property name="line.separator" value="
-"/>
-    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="jdk.internal.vm.ci.enabled" value="true"/>
-    <property name="os.name" value="Linux"/>
-    <property name="classworlds.conf" value="/nix/store/dznkazjn5mk1ds47qmbsbkiampgsgg5j-apache-maven-3.8.3/maven/bin/m2.conf"/>
-    <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.library.path" value="/nix/store/g2iy5k2yx2kcbr4klwv58fbg0vhjfkyp-cups-2.3.3op2-lib/lib:/nix/store/z3wflph8ngraqv8z3vznrr15wrw37syy-cairo-1.16.0/lib:/nix/store/f5jhxrj5cxq2mnahwj4nba3sw4g5956c-glib-2.70.1/lib:/nix/store/z2phd72675fma3nz1l4jzpignf4zycvd-gtk+3-3.24.30/lib:/nix/store/hisqvx32cd57apbpcsnkpx6k3549wql1-libglvnd-1.4.0/lib:/nix/store/p36pgcv991mq5srvg765b78yqpxvk3qs-mesa-21.3.3-drivers/lib:/nix/store/mav4251if1ahjq5vkpwycyyvnmy459c4-pulseaudio-14.2/lib:/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
-    <property name="maven.conf" value="/nix/store/dznkazjn5mk1ds47qmbsbkiampgsgg5j-apache-maven-3.8.3/maven/conf"/>
-    <property name="jdk.debug" value="release"/>
-    <property name="java.class.version" value="61.0"/>
-    <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="5.15.0-1029-gcp"/>
-    <property name="library.jansi.path" value="/nix/store/dznkazjn5mk1ds47qmbsbkiampgsgg5j-apache-maven-3.8.3/maven/lib/jansi-native"/>
-    <property name="user.home" value="/home/runner"/>
-    <property name="user.timezone" value="GMT"/>
-    <property name="file.encoding" value="UTF-8"/>
-    <property name="java.specification.version" value="17"/>
-    <property name="user.name" value="runner"/>
-    <property name="java.class.path" value="/nix/store/dznkazjn5mk1ds47qmbsbkiampgsgg5j-apache-maven-3.8.3/maven/boot/plexus-classworlds-2.6.0.jar"/>
-    <property name="java.vm.specification.version" value="17"/>
-    <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -f root/pom.xml test"/>
-    <property name="java.home" value="/nix/store/jd8g6gkgxzz40842f1g51fca5bg9ilmj-graalvm17-ce"/>
-    <property name="user.language" value="en"/>
-    <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.vm.info" value="mixed mode, sharing"/>
-    <property name="java.version" value="17.0.1"/>
+ <property name="java.version" value="17.0.1"/>
     <property name="native.encoding" value="UTF-8"/>
     <property name="java.vendor" value="GraalVM Community"/>
     <property name="maven.home" value="/nix/store/dznkazjn5mk1ds47qmbsbkiampgsgg5j-apache-maven-3.8.3/maven"/>
