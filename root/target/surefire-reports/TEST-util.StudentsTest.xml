@@ -1,32 +1,3 @@
-
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
-	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
-	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
-</failure>
-  </testcase>
-  <testcase classname="util.StudentsTest" name="testOrderedByNameThenId" time="0.203">
-    <failure message="
-Expecting:
-  []
-to contain exactly (and in same order):
-  [Bill Hedgerow (2099991),
-    Clarice Meadow (2099992),
-    Elle Treestump (2099993),
-    Freddie Riverbank (1999995),
-    Gertrude Oxbow-Lake (2099996)]
-but could not find the following elements:
-  [Bill Hedgerow (2099991),
-    Clarice Meadow (2099992),
-    Elle Treestump (2099993),
-    Freddie Riverbank (1999995),
-    Gertrude Oxbow-Lake (2099996)]
-" type="java.lang.AssertionError">java.lang.AssertionError: 
-Expecting:
-  []
 to contain exactly (and in same order):
   [Bill Hedgerow (2099991),
     Clarice Meadow (2099992),
