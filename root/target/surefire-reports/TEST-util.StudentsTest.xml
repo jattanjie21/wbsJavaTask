@@ -1,32 +1,4 @@
- <property name="java.version" value="17.0.1"/>
-    <property name="native.encoding" value="UTF-8"/>
-    <property name="java.vendor" value="GraalVM Community"/>
-    <property name="maven.home" value="/nix/store/dznkazjn5mk1ds47qmbsbkiampgsgg5j-apache-maven-3.8.3/maven"/>
-    <property name="file.separator" value="/"/>
-    <property name="java.version.date" value="2021-10-19"/>
-    <property name="java.vendor.url.bug" value="https://github.com/oracle/graal/issues"/>
-    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="sun.cpu.endian" value="little"/>
-    <property name="java.vendor.version" value="GraalVM CE 21.3.0"/>
-    <property name="sun.stdout.encoding" value="UTF-8"/>
-  </properties>
-  <testcase classname="util.StudentsTest" name="testCountOfCourseLengthforStartYear" time="0.59">
-    <failure message="
-Expecting:
-  {}
-to contain only following keys:
-  [1]
-but could not find the following keys:
-  [1]
-" type="java.lang.AssertionError">java.lang.AssertionError: 
-Expecting:
-  {}
-to contain only following keys:
-  [1]
-but could not find the following keys:
-  [1]
-
-	at util.StudentsTest.testCountOfCourseLengthforStartYear(StudentsTest.java:121)
+at util.StudentsTest.testCountOfCourseLengthforStartYear(StudentsTest.java:121)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
